@@ -1,0 +1,5 @@
+- Hey there!
+- Welcome to my GitHub repo.
+- This repo was created to post some of my homeworks, as you know, currently I'm studying Java Automation cource.
+- Thanks for your interest!
+- Cya!
