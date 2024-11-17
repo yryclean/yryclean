@@ -1,5 +1,7 @@
-- Hey there!
-- Welcome to my GitHub repo.
-- This repo was created to post some of my homeworks, as you know, currently I'm studying Java Automation cource.
+- Hey there all!
+- Welcome, and thank you for visiting my repo.
+- This repo was created to post some of my homeworks and practices.
+- Some old jobs were mostly dedicated to Web testing using Java, TestNG, Maven, Selenium WebDriver, Allure
+- Recent jobs were done for mobile testing using Java, JUnit, Maven, Appium, Allure
 - Thanks for your interest!
 - Cya!
